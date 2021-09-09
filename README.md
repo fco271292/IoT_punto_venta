@@ -2,11 +2,17 @@
 
 ## ¿Para qué es este repositorio?
 * Sumario rápido
+> Conectividad entre Arduino y Grails via servicios web.
 * Versión
+> 1
 ## ¿Cómo se configura?
 * Resumen de la configuración
 * Configuración
 * Dependencias
+> RestClient   
+> ArduinoJson   
+> Ethernet   
+> SPI   
 * Configuración de la base de datos
 * Cómo ejecutar pruebas
 * Instrucciones de implementación
